@@ -29,15 +29,9 @@ Many mood-tracking apps on the market aren’t optimized for ADHD and anxiety ne
 
 ### Current Development Status 📈
 
-- **Core Features**: Mood and habit logging are functional, allowing users to interact meaningfully with AuraBot.
-- **Notification System**: Custom notifications are being developed to enable reminders tailored to individual routines.
-- **Data Security**: Ensuring encryption and secure data handling to protect user information.
-
-## Project Timeline 📅
-
-- **Phase 1**: Research and initial development of core bot functionalities.
-- **Phase 2**: Testing and refining mood logging and habit tracking, implementing the notification system, and conducting accessibility testing.
-- **Final Phase**: Completing and polishing all features, finalizing security protocols, and preparing AuraBot for launch.
+- **Core Features**: Mood logging, habit logging, and goal tracking are functional, allowing users to interact meaningfully with AuraBot.
+- **Notification System**: Custom notifications available to enable reminders tailored to individual routines.
+- **Customization**: Open for suggestions for personalized functions!
 
 ---
 
